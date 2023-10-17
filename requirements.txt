@@ -1,0 +1,7 @@
+tqdm
+fitparse
+ipywidgets
+glob
+IPython
+pandas
+numpy
